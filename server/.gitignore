@@ -1,0 +1,11 @@
+.neon
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+coverage/
+
+# Unused Neon Functions starter files
+/hello.ts
+/neon.ts
